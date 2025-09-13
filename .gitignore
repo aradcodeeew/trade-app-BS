@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # پوشه‌های خروجی PyInstaller
 dist/
 build/
@@ -20,3 +21,27 @@ __pycache__/
 # فایل‌های محیط مجازی
 venv/
 .env
+=======
+# پوشه‌های خروجی PyInstaller
+dist/
+build/
+
+# فایل‌های موقت پایتون
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# فایل‌های spec
+*.spec
+
+# لاگ‌ها
+*.log
+
+# فایل‌های فشرده
+*.zip
+
+# فایل‌های محیط مجازی
+venv/
+.env
+>>>>>>> d797e5dce55f5a2933379a0286a39769b7b3a9f6
